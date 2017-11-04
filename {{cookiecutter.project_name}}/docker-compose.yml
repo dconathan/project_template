@@ -1,0 +1,12 @@
+
+version: "3"
+
+services:
+  {{cookiecutter.project_name}}-backend:
+    etc.
+
+  {{cookiecutter.project_name}}-frontend:
+    etc.
+
+  mongodb:
+    etc.

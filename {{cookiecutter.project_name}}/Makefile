@@ -1,0 +1,4 @@
+
+
+activate:
+	bash activate.sh
